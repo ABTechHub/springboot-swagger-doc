@@ -45,7 +45,7 @@ import org.springframework.cloud.openfeign.EnableFeignClients;
                 title = "Sample Service",
                 version = "1.0.0",
                 description = "",
-                contact = @Contact(name = "Unity Sphere", email = "emailId", url = "Any Url")
+                contact = @Contact(name = "Sample Service", email = "emailId", url = "Any Url")
         ),
         servers = {@Server(url = "Server Url")}
 )
